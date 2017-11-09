@@ -9,12 +9,21 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
-        <activity android:name=".MainActivity" >
+
+        /* 스플래시 액티비티 */
+        <activity
+            android:name=".SplashActivity"
+            android:theme="@style/SplashTheme"
+            android:screenOrientation="portrait">     // 강제로 세로모드만 가능하게
+
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-aaaaa
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+
+        <activity android:name=".MainActivity" >
+
         </activity>
     </application>
 
