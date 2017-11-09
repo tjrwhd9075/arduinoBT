@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\user\AndroidStudioProjects\arduinoBT\app\app.iml" filepath="C:\Users\user\AndroidStudioProjects\arduinoBT\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/arduinoBT.iml" filepath="$PROJECT_DIR$/arduinoBT.iml" />
+      <module fileurl="file://C:\Users\user\AndroidStudioProjects\arduinoBT\arduinoBT.iml" filepath="C:\Users\user\AndroidStudioProjects\arduinoBT\arduinoBT.iml" />
     </modules>
   </component>
 </project>
