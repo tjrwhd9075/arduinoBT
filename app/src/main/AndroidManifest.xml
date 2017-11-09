@@ -12,7 +12,7 @@
         <activity android:name=".MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-aaaaa
+영무야 짜증난다~~~
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
